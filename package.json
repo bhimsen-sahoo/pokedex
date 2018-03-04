@@ -1,0 +1,31 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is a pokedex app built using reactjs. This app is a part of an assignment.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhimsen-sahoo/pokedex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhimsen-sahoo/pokedex/issues"
+  },
+  "homepage": "https://github.com/bhimsen-sahoo/pokedex#readme",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1",
+    "react-sort-search-table": "^0.1.1",
+    "react-table": "^6.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
